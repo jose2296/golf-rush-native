@@ -1,0 +1,60 @@
+{
+    "translation": {
+        "back": "Back",
+        "settings": "Settings",
+        "contact": "Contact",
+        "logout": "Logout",
+        "coming_soon": "Coming soon",
+        "create": "Create",
+        "cancel": "cancel",
+        "validations": {
+            "required_field": "Required field"
+        },
+        "login": {
+            "title": "Sign in",
+            "login": "Login",
+            "email": "Email",
+            "password": "Password",
+            "invalid_login_credentials": "Invalid credentials"
+        },
+        "home": {
+            "customize": "Customize",
+            "play": "Play",
+            "play_online": "Play online",
+            "practice": "Practice",
+            "profile": "Profile",
+            "shop": "Shop"
+        },
+        "customize": {
+            "practice": "Practice",
+            "colors": "Colors",
+            "stelas": "Stelas",
+            "accessories": "Accessories",
+            "coming_soon": "Coming soon"
+        },
+        "room": {
+            "leave_room": "Leave room"
+        },
+        "practice": {
+            "maps": "Maps",
+            "play": "Play",
+            "require_map_selection": "Select al least one map"
+        },
+        "roomList": {
+            "create_room": "Create room_name",
+            "room_name": "Room name",
+            "room_exists": "This room name already exists",
+            "no_rooms": "No rooms yet, create one please",
+            "join_room": "Join Room",
+            "rooms_list": "Rooms list",
+            "max_players": "Limit of players reached"
+        },
+        "lobby": {
+            "ready": "Ready",
+            "no_ready": "No ready",
+            "start_game": "Start game",
+            "waiting_players_ready": "Waiting for all players to be ready",
+            "waiting_admin": "Waiting for admin to start game"
+        }
+    }
+}

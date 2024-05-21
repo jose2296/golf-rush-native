@@ -1,0 +1,64 @@
+{
+    "translation": {
+        "back": "Atrás",
+        "settings": "Configuración",
+        "contact": "Contacto",
+        "logout": "Cerrar sesión",
+        "coming_soon": "Próximamente",
+        "create": "Crear",
+        "cancel": "Cancelar",
+        "validations": {
+            "required_field": "Campo requredido"
+        },
+        "login": {
+            "title": "Inciar sesión",
+            "login": "Acceder",
+            "email": "Correo electrónico",
+            "password": "Contraseña",
+            "invalid_login_credentials": "Credenciales incorrectas"
+        },
+        "home": {
+            "customize": "Personalizar",
+            "play": "Jugar",
+            "play_online": "Jugar en línea",
+            "practice": "Practicar",
+            "profile": "Perfil",
+            "shop": "Tienda"
+        },
+        "customize": {
+            "practice": "Practicar",
+            "colors": "Colores",
+            "stelas": "Estelas",
+            "accessories": "Accesorios",
+            "coming_soon": "Próximamente"
+        },
+        "room": {
+            "leave_room": "Salir de la sala"
+        },
+        "practice": {
+            "maps": "Mapas",
+            "play": "Jugar",
+            "require_map_selection": "Selecciona al menos un mapa",
+            "finish_practice_tittle": "Practica finalizada",
+            "finish_practice_message": "La practica a terminado, ¿que quieres hacer?",
+            "restart": "Reiniciar",
+            "finish": "Salir"
+        },
+        "roomList": {
+            "create_room": "Crear sala",
+            "room_name": "Nombre de la sala",
+            "room_exists": "Este nombre de sala ya existe",
+            "no_rooms": "No hay salas todavía, crea una por favor",
+            "join_room": "Entrar a la sala",
+            "rooms_list": "Lista de salas",
+            "max_players": "Límite de jugadores alcanzado"
+        },
+        "lobby": {
+            "ready": "Listo",
+            "no_ready": "No estoy listo",
+            "start_game": "Empezar",
+            "waiting_players_ready": "Esperando a que todos los jugadores estén listos",
+            "waiting_admin": "Esperando al administrador para empezar la partida"
+        }
+    }
+}
