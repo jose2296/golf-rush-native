@@ -9,7 +9,7 @@ import { useEffect } from 'react';
 import { Platform } from 'react-native';
 
 const firebaseConfig = {
-    apiKey: 'AIzaSyAqCWvs41WFHV3KB9Ejkbq6G9UQkp8_qj8',
+    apiKey: process.env.EXPO_PUBLIC_FIREBASE_PROJECT_API_KEY,
     authDomain: 'golf-rush-web.firebaseapp.com',
     projectId: 'golf-rush-web',
     storageBucket: 'golf-rush-web.appspot.com',
